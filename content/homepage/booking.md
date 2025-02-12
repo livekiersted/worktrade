@@ -6,6 +6,6 @@ header_menu: true
 
 Schedule a session:
 
-{{< booking "livekiersted/consult" >}}
+{{< booking "livekiersted/anti-racism-coaching" >}}
 
 Existing clients: [book multiple sessions](https://tidycal.com/livekiersted/consulting)

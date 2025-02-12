@@ -7,7 +7,7 @@ defaultContentLanguage = "en"
 ignoreFiles = [ ".*/README.md" ]
 
 [params]
-    favicon = "images/anti-racism light.png"
+    favicon = "images/anti-racism favicon.png"
     hidedesignbyline = true
     title = "Live Kiersted"
     description = "Anti-Racism"
