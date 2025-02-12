@@ -1,0 +1,57 @@
+:root {
+
+    --primary-color: #F29222;
+    --primary-color-dark: #4D2B04;
+    --testimonial-card-color: #f1bb7d;
+
+    /* === Cover / Landing area === */
+    --cover-text-color: var(--primary-color-dark);
+    /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
+    --highlight: var(--primary-color);
+    --highlight-contrast: var(--cover-text-color);
+    /*iverse colors used for :hover */
+    --highlight-inverse: var(--cover-text-color);
+    --highlight-inverse-contrast: white;
+
+    /* visual guard around title and description, when the feature is enabled */
+    --cover-title-and-description-guard-bg-color: rgba(255, 255, 255, 0.6);
+    --cover-title-text-shadow: white 0px 0px 7px;
+
+
+    /* === sticky top/left navigation menus === */
+    --sticky-menu-text-color: var(--primary-color);
+
+
+    /* === Alternating content (post) sections  === */
+    /* Light section - text color */
+    --section-light-text-color: var(--primary-color-dark);
+    /* Light section - background color */
+    --section-light-bg-color: #f7f7f7;
+
+    /* Dark section - text color */
+    --section-dark-text-color: var(--primary-color-dark);
+    /* Dark section - background color */
+    --section-dark-bg-color: var(--primary-color);
+
+    /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
+    --section-uni-quote: grey;
+    /* Light&Dark section `code` a bit darker than 'Light section - background color' */
+    --section-uni-code-bg-color: #e5e5e5;
+
+
+    /* === Footer === */
+    --footer-color-background: #222222;
+    --footer-color: #aaaaaa;
+}
+
+.testimonial {
+    background-color: var(--testimonial-card-color);
+    border: 2px solid var(--primary-color-dark);
+    padding: 0 1em 0; //top, left/right, bottom (if diff from top)
+    border-radius: 0.8em;
+    margin: 1em 0;
+  }
+  
+  .testimonial-candidate {
+    text-align: right;
+  }
