@@ -1,16 +1,15 @@
-baseURL = 'https://girlpile.org/'
+baseURL = 'https://antiracism.livekiersted.com/'
 languageCode = 'en-us'
-title = 'Live Kiersted - WORK'
+title = 'Live Kiersted Antiracism'
 theme = 'hugo-scroll'
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 defaultContentLanguage = "en"
 ignoreFiles = [ ".*/README.md" ]
 
 [params]
-    favicon = "favicon.png"
+    favicon = "images/anti-racism icon.png"
     hidedesignbyline = true
     title = "Live Kiersted"
-    description = "WORK"
-    images = ["favicon.png"]
+    description = "Anti-Racism"
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md files
