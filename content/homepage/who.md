@@ -1,6 +1,7 @@
 ---
 title: "Live Kiersted"
 header_menu_title: "Who"
+navigation_menu_title: "Who"
 weight: 2
 header_menu: true
 ---

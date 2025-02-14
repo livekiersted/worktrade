@@ -1,6 +1,7 @@
 ---
 title: "Anti-Racism Coaching"
 header_menu_title: "What"
+navigation_menu_title: "What"
 weight: 1
 header_menu: true
 ---
