@@ -11,3 +11,7 @@ hugo.linux
 
 # Temporary lock file while building
 /.hugo_build.lock
+
+# Subrepos that don't exist locally
+/hugo-base/
+/themes/hugo-scroll/
