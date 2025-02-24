@@ -1,0 +1,20 @@
+name: Initialize Submodules
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  initialize-submodules:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          submodules: true
+
+      - name: Initialize and update submodules
+        run: |
+          git submodule init
+          git submodule update
