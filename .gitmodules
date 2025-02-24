@@ -2,5 +2,5 @@
 	path = themes/hugo-scroll
 	url = https://github.com/zjedi/hugo-scroll.git
 [submodule "hugo-base"]
-    path = hugo-base
-    url = https://github.com/livekiersted/hugo-base.git
+	path = hugo-base
+	url = https://github.com/livekiersted/hugo-base.git
