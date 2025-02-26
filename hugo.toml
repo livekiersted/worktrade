@@ -2,6 +2,7 @@ baseURL = 'https://antiracism.livekiersted.com/'
 languageCode = 'en-us'
 title = 'Live Kiersted Antiracism'
 theme = 'hugo-scroll'
+layoutDir = 'hugo-base/layouts'
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 defaultContentLanguage = "en"
 ignoreFiles = [ ".*/README.md" ]
@@ -13,7 +14,3 @@ ignoreFiles = [ ".*/README.md" ]
     description = "Anti-Racism"
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md files
-
-  # Add this to include hugo-base layouts
-[dir]
-  layoutDir = "hugo-base/layouts"
