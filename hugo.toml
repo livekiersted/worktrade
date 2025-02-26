@@ -13,3 +13,7 @@ ignoreFiles = [ ".*/README.md" ]
     description = "Anti-Racism"
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md files
+
+  # Add this to include hugo-base layouts
+[dir]
+  layoutDir = "hugo-base/layouts"
