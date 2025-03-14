@@ -47,7 +47,7 @@ Are you one of those people who guides journeys? Receives clear downloads about 
 I'm pretty handy but there's always more to do than I have spoons for. Do you know how to replace rotting shingles? Plaster a room with natural clay? Build basic cabinetry? Put in a door?
 
 ##### Cash
-Fuck capitalism, but also these bills though.
+Capitalism is a massively destructive collective delusion, but bills are real.
 
 ##### Other
 Feel free to suggest something entirely else!
