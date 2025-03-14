@@ -8,7 +8,7 @@ defaultContentLanguage = "en"
 ignoreFiles = [ ".*/README.md" ]
 
 [params]
-    favicon = "images/work trade favicon.png"
+    favicon = "images/worktrade favicon.png"
     hidedesignbyline = true
     title = "Live Kiersted"
     description = "Work Trade"
