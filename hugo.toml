@@ -1,6 +1,6 @@
-baseURL = 'https://antiracism.livekiersted.com/'
+baseURL = 'https://worktrade.livekiersted.com/'
 languageCode = 'en-us'
-title = 'Live Kiersted Antiracism'
+title = 'Live Kiersted Work Trade'
 theme = 'hugo-scroll'
 layoutDir = 'hugo-base/layouts'
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
@@ -8,9 +8,9 @@ defaultContentLanguage = "en"
 ignoreFiles = [ ".*/README.md" ]
 
 [params]
-    favicon = "images/anti-racism favicon.png"
+    favicon = "images/work trade favicon.png"
     hidedesignbyline = true
     title = "Live Kiersted"
-    description = "Anti-Racism"
+    description = "Work Trade"
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md files
