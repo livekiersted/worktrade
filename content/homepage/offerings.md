@@ -48,8 +48,5 @@ What can I do for you?
 - **Space for Small Gatherings**: I can offer my living room or yard in Oakland for small events or gatherings
 - **An Amazing Bath**: I have an outdoor bathtub in my garden under a giant trellis of jasmine that is deep and warm and visually private from the neighbors. It can be your solo relaxation, retreat, or ritual space.
 
-#### Community & Social  
-- **Queer Women-Only Sex Party**: I’ve been running this event for decades and would be delignted to extend an invitation if that's your jam
-
 #### Other
 - What do you need? How can I help?

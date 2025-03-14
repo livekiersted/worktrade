@@ -46,5 +46,8 @@ Are you one of those people who guides journeys? Receives clear downloads about 
 ##### Handyperson Stuff
 I'm pretty handy but there's always more to do than I have spoons for. Do you know how to replace rotting shingles? Plaster a room with natural clay? Build basic cabinetry? Put in a door?
 
+##### Cash
+Fuck capitalism, but also these bills though.
+
 ##### Other
 Feel free to suggest something entirely else!
